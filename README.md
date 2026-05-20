@@ -1,6 +1,6 @@
 # @veridex/sera-mcp-fabric
 
-Veridex-native rebuild of `sera-mcp`.
+Veridex-native rebuild of `https://github.com/Josh-sera/sera-mcp`.
 
 This package preserves the upstream Sera MCP execution surface while wrapping it in `@veridex/agents` tool contracts, Veridex runtime composition, and MCP-compatible exposure.
 
